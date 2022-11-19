@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="walab.handong.edu" id="fcacc0e7-6dbd-4118-842b-0ffe4ad704e3" port="22" nameFormat="DESCRIPTIVE" username="p1_21700327" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
